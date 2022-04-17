@@ -1,0 +1,10 @@
+footer{
+    position:fixed;
+    text-align: center;
+    bottom:0;
+    width:100%;
+    height: 2%; 
+    background:rgba(20, 20, 20, 0.055);
+    font-family: 'Montserrat Alternates';
+    color: #000000;
+}
